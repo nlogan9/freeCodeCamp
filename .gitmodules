@@ -1,0 +1,3 @@
+[submodule "6_back_end/1_npm"]
+	path = 6_back_end/1_npm
+	url = https://github.com/nlogan9/managing_packages_with_NPM
